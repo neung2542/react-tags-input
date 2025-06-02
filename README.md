@@ -15,6 +15,10 @@ npm install
 npm run dev
 ```
 
+OR
+
+Visit Live: [https://react-tags-input-taupe.vercel.app/](https://react-tags-input-taupe.vercel.app/)
+
 ## Usage
 
 ```tsx
